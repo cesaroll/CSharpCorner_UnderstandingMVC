@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>Start Page</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Json.NET Install - Newtonsoft</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data_Personal\Tech\Workspaces\C#_Corner\UnderstandingMVC\WebApp\Controllers\ClientController.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data_Personal\Tech\Workspaces\C#_Corner\UnderstandingMVC\WebApp\Models\Client.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data_Personal\Tech\Workspaces\C#_Corner\UnderstandingMVC\WebApp\Views\Client\Index.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data_Personal\Tech\Workspaces\C#_Corner\UnderstandingMVC\WebApp\Views\Client\Create.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data_Personal\Tech\Workspaces\C#_Corner\UnderstandingMVC\WebApp\Views\Client\Update.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data_Personal\Tech\Workspaces\C#_Corner\UnderstandingMVC\WebApp\Views\Client\Delete.cshtml</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data_Personal\Tech\Workspaces\C#_Corner\UnderstandingMVC\WebApp\App_Start\BundleConfig.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data_Personal\Tech\Workspaces\C#_Corner\UnderstandingMVC\WebApp\App_Start\IdentityConfig.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\My_Data_Personal\Tech\Workspaces\C#_Corner\UnderstandingMVC\WebApp\App_Start\RouteConfig.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
